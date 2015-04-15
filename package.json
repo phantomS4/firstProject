@@ -1,0 +1,22 @@
+{
+  "name": "echo-node",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib/echo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phantomS4/firstProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phantomS4/firstProject/issues"
+  },
+  "homepage": "https://github.com/phantomS4/firstProject",
+  "dependencies": {
+    "argv": "0.0.2"
+  }
+}
